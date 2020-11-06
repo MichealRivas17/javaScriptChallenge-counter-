@@ -13,7 +13,7 @@
                 count++
             }
 
-            //Select the counter text
+            //Select the counter text to change color
             const counter = document.querySelector('#counter')
             counter.textContent = count
 
